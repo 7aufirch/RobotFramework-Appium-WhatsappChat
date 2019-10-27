@@ -1,4 +1,4 @@
-## WhatsappChat ##
+## WhatsappChat Testing with Appium Robot Framework ##
 
 ### Pendahuluan ###
 <div style="text-align:justify">Project ini merupakan project latihan yang saya lakukan untuk mendalami Librari Appium pada Robot Framework.
