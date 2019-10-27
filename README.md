@@ -1,6 +1,6 @@
-##WhatsappChat##
+## WhatsappChat ##
 
-###Pendahuluan###
+### Pendahuluan ###
 <div style="text-align:justify">Project ini merupakan project latihan yang saya lakukan untuk mendalami Librari Appium pada Robot Framework.
 
 Untuk menjalankan program ini terlabih dahulu menginstall :</div>
@@ -9,7 +9,7 @@ Untuk menjalankan program ini terlabih dahulu menginstall :</div>
 2. [Appium](https://www.youtube.com/watch?v=x-hBpgM5je8)
 3. AndroidStudio (untuk keperluan ADB & SDK)
 
-###Penjelasan Fungsi###
+### Penjelasan Fungsi ###
 - Open Whatsapp
 ```robot framework
 Open Whatsapp
